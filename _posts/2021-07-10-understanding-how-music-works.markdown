@@ -27,3 +27,5 @@ The best video lectures that I have found so far on YouTube are the lectures by 
 <iframe style="position:absolute;top:0;left:50%;bottom:0;right:0;width:50%;height:100%;" src="https://www.youtube.com/embed/videoseries?list=UU6X9nEsddMpYNyxr3ZckjLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+# Analyzing musical passages
+
