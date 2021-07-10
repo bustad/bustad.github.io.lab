@@ -20,7 +20,7 @@ Learning the theory of music is possible through video lectures on YouTube, thro
 
 # Video lectures on YouTube
 
-<div style="position:relative;overflow:hidden;width:100%;padding-top:56.25%;">
+<div style="position:relative;overflow:hidden;width:100%;padding-top:28.125%;">
 <iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:50%;height:100%;" src="https://www.youtube.com/embed/xAoljeRJ3lU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="position:absolute;top:0;left:50%;bottom:0;right:0;width:50%;height:100%;" src="https://www.youtube.com/embed/xAoljeRJ3lU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
