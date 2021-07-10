@@ -16,3 +16,7 @@ use_math: false
 
 Something that I find immensely fascinating is music. What exactly is it? How does it work? Why do some musical passages have such an emotional impact? What is the mathematical basis of which notes fit together and of which chords work together? If history would have started over, would we have music similar to what we have today or could it have been something completely different? Which aspects of music do we learn and which are we born with, i.e. nature versus nurture?
 
+Learning the theory of music is possible through video lectures on YouTube, through university courses, by analyzing musical passages and in many other ways. Below are the best ways I have found so far online of learning music theory.
+
+# Video lectures on YouTube
+
