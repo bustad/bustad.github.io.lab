@@ -20,12 +20,14 @@ Learning the theory of music is possible through video lectures on YouTube, thro
 
 # Video lectures on YouTube
 
-The best video lectures that I have found so far on YouTube are the lectures by [Christopher Brellochs](https://www.youtube.com/playlist?list=PLw9t0oA3fHkxx1PgYpiXrMUPXaOiwh6KU) and the ones by [Seth Monahan](https://www.youtube.com/channel/UC6X9nEsddMpYNyxr3ZckjLg/videos?view=0&sort=da).
+The best video lectures that I have found so far on YouTube are the ones by [Christopher Brellochs](https://www.youtube.com/playlist?list=PLw9t0oA3fHkxx1PgYpiXrMUPXaOiwh6KU) and the ones by [Seth Monahan](https://www.youtube.com/channel/UC6X9nEsddMpYNyxr3ZckjLg/videos?view=0&sort=da).
 
 <div style="position:relative;overflow:hidden;width:100%;padding-top:28.125%;">
 <iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:50%;height:100%;" src="https://www.youtube.com/embed/videoseries?list=PLw9t0oA3fHkxx1PgYpiXrMUPXaOiwh6KU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="position:absolute;top:0;left:50%;bottom:0;right:0;width:50%;height:100%;" src="https://www.youtube.com/embed/videoseries?list=UU6X9nEsddMpYNyxr3ZckjLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+There are many other channels on YouTube that teach music theory, but in shorter videos and not in the classical lecture style. 
 
 # Analyzing musical passages
 
