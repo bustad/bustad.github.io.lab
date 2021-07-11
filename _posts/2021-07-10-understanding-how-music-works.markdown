@@ -29,7 +29,7 @@ The best video lectures that I have found so far on YouTube are the ones by [Chr
 
 There are many other channels on YouTube that teach music theory, but mostly in slightly shorter videos and not as much in a classical lecture style. 
 
-<div style="position:relative;overflow:hidden;width:100%;padding-top:337.50%;">
+<div style="position:relative;overflow:hidden;width:100%;padding-top:112.5%;">
 
 <iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:33.33%;height:16.66%;" src="https://www.youtube.com/embed/videoseries?list=UUMHG0rJtVF1LohiP63FJakw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="position:absolute;top:0;left:33.33%;bottom:0;right:0;width:33.33%;height:16.66%;" src="https://www.youtube.com/embed/videoseries?list=UUJquYOG5EL82sKTfH9aMA9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
