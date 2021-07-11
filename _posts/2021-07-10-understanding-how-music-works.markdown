@@ -35,7 +35,7 @@ There are many other channels on YouTube that teach music theory, but mostly in 
   <iframe style="position:absolute;top:0;left:66.66%;bottom:0;right:0;width:33.33%;height:100%;" src="https://www.youtube.com/embed/videoseries?list=UU8yI8P7Zi3yYTsypera-IQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-These are my favourites at the moment, but there are also many more, and I am sure that I have not discovered all of them yet.
+These are my favourite YouTube channels about music theory at the moment, but there are also many more, and I am sure that I have not discovered all of them yet.
 
 # Analyzing musical passages
 
