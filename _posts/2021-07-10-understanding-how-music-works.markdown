@@ -23,24 +23,16 @@ Learning the theory of music is possible through video lectures on YouTube, thro
 The best video lectures that I have found so far on YouTube are the ones by [Christopher Brellochs](https://www.youtube.com/playlist?list=PLw9t0oA3fHkxx1PgYpiXrMUPXaOiwh6KU) and the ones by [Seth Monahan](https://www.youtube.com/channel/UC6X9nEsddMpYNyxr3ZckjLg/videos?view=0&sort=da).
 
 <div style="position:relative;overflow:hidden;width:100%;padding-top:28.125%;"> <!-- 9/16 = 0,5625 -->
-
 <iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:50%;height:100%;" src="https://www.youtube.com/embed/videoseries?list=PLw9t0oA3fHkxx1PgYpiXrMUPXaOiwh6KU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="position:absolute;top:0;left:50%;bottom:0;right:0;width:50%;height:100%;" src="https://www.youtube.com/embed/videoseries?list=UU6X9nEsddMpYNyxr3ZckjLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 </div>
 
 There are many other channels on YouTube that teach music theory, but mostly in slightly shorter videos and not as much in a classical lecture style. 
 
-<div style="position:relative;overflow:hidden;width:100%;padding-top:37.5%;">
-
+<div style="position:relative;overflow:hidden;width:100%;padding-top:18.75%;">
 <iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:33.33%;height:100%;" src="https://www.youtube.com/embed/videoseries?list=UUMHG0rJtVF1LohiP63FJakw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="position:absolute;top:0;left:33.33%;bottom:0;right:0;width:33.33%;height:100%;" src="https://www.youtube.com/embed/videoseries?list=UUJquYOG5EL82sKTfH9aMA9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="position:absolute;top:0;left:66.66%;bottom:0;right:0;width:33.33%;height:100%;" src="https://www.youtube.com/embed/videoseries?list=UU8yI8P7Zi3yYTsypera-IQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe style="position:absolute;top:50%;left:0;bottom:0;right:0;width:33.33%;height:100%;" src="https://www.youtube.com/embed/videoseries?list=UUMHG0rJtVF1LohiP63FJakw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe style="position:absolute;top:50%;left:33.33%;bottom:0;right:0;width:33.33%;height:100%;" src="https://www.youtube.com/embed/videoseries?list=UUJquYOG5EL82sKTfH9aMA9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe style="position:absolute;top:50%;left:66.66%;bottom:0;right:0;width:33.33%;height:100%;" src="https://www.youtube.com/embed/videoseries?list=UU8yI8P7Zi3yYTsypera-IQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 </div>
 
 These are my favourite YouTube channels about music theory at the moment, but there are also many more, and I am sure that I have not discovered all of them yet.
