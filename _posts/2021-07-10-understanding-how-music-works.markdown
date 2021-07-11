@@ -73,3 +73,4 @@ Bass Chromagram
 
 <img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/sonic-visualiser.png" alt="Screenshot">
 
+<img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/dorico-se.png" alt="Screenshot">
