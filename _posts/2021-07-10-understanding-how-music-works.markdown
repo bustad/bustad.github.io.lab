@@ -59,7 +59,7 @@ There are many other channels on YouTube that teach music theory, but mostly in 
 
 These are my favourite YouTube channels about music theory at the moment, but there are also many more, and I am sure that I have not discovered all of them yet.
 
-A field that is related to music theory is psychoacoustics. Berklee Online has a few [quite fascinating short lectures](https://www.youtube.com/playlist?list=PL1wHeEmBdcWQte2xbslO07rfIitSVNPfy) in this subject. The part on conconance and dissonance I found particularly interesting.
+A field that is related to music theory is psychoacoustics. Berklee Online has a few [quite fascinating short lectures](https://www.youtube.com/playlist?list=PL1wHeEmBdcWQte2xbslO07rfIitSVNPfy) on this subject. The part on consonance and dissonance I found particularly interesting.
 
 # Analyzing musical passages
 
