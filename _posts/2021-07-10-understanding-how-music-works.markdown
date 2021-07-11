@@ -38,15 +38,14 @@ There are many other channels on YouTube that teach music theory, but mostly in 
 <iframe style="position:absolute;top:16.66%;left:0;bottom:0;right:0;width:33.33%;height:16.66%;" src="https://www.youtube.com/embed/videoseries?list=UUTUtqcDkzw7bisadh6AOx5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="position:absolute;top:16.66%;left:33.33%;bottom:0;right:0;width:33.33%;height:16.66%;" src="https://www.youtube.com/embed/videoseries?list=UUnkp4xDOwqqJD7sSM3xdUiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="position:absolute;top:16.66%;left:66.66%;bottom:0;right:0;width:33.33%;height:16.66%;" src="https://www.youtube.com/embed/videoseries?list=UURDDHLvQb8HjE2r7_ZuNtWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  
-  
-  
 
-<iframe style="position:absolute;top:33.33%;left:0;bottom:0;right:0;width:33.33%;height:16.66%;" src="https://www.youtube.com/embed/videoseries?list=UUMHG0rJtVF1LohiP63FJakw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe style="position:absolute;top:33.33%;left:33.33%;bottom:0;right:0;width:33.33%;height:16.66%;" src="https://www.youtube.com/embed/videoseries?list=UUJquYOG5EL82sKTfH9aMA9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe style="position:absolute;top:33.33%;left:66.66%;bottom:0;right:0;width:33.33%;height:16.66%;" src="https://www.youtube.com/embed/videoseries?list=UU8yI8P7Zi3yYTsypera-IQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="position:absolute;top:33.33%;left:0;bottom:0;right:0;width:33.33%;height:16.66%;" src="https://www.youtube.com/embed/videoseries?list=UU4ihNhN8iN9QPg2XTxiiPJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="position:absolute;top:33.33%;left:33.33%;bottom:0;right:0;width:33.33%;height:16.66%;" src="https://www.youtube.com/embed/videoseries?list=UUiawGYzxoZSPDLReSFETqeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="position:absolute;top:33.33%;left:66.66%;bottom:0;right:0;width:33.33%;height:16.66%;" src="https://www.youtube.com/embed/videoseries?list=UUi7l9chXMljpUft67vw78qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+  
+  
+  
 <iframe style="position:absolute;top:50%;left:0;bottom:0;right:0;width:33.33%;height:16.66%;" src="https://www.youtube.com/embed/videoseries?list=UUMHG0rJtVF1LohiP63FJakw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="position:absolute;top:50%;left:33.33%;bottom:0;right:0;width:33.33%;height:16.66%;" src="https://www.youtube.com/embed/videoseries?list=UUJquYOG5EL82sKTfH9aMA9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="position:absolute;top:50%;left:66.66%;bottom:0;right:0;width:33.33%;height:16.66%;" src="https://www.youtube.com/embed/videoseries?list=UU8yI8P7Zi3yYTsypera-IQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
