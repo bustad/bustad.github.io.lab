@@ -65,6 +65,5 @@ A field that is related to music theory is psychoacoustics. Berklee Online has a
 
 The best method I know of at the moment is to record the music through Audacity's WASAPI Loopback functionality, analyze the recording using Sonic Visualiser and a few plug-ins, and make notes using Steinberg's free Dorico SE.
 
-<img style="width:50%; height:auto;" src="/bustad.github.io.lab/img/posts/audacity1.png" alt="Screenshot">
-<img style="width:50%; height:auto;" src="/bustad.github.io.lab/img/posts/audacity3.png" alt="Screenshot">
-
+<img style="width:49.99%; height:auto;" src="/bustad.github.io.lab/img/posts/audacity1.png" alt="Screenshot">
+<img style="width:49.99%; height:auto;" src="/bustad.github.io.lab/img/posts/audacity3.png" alt="Screenshot">
