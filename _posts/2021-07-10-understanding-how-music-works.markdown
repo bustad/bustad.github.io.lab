@@ -67,3 +67,9 @@ The best method I know of at the moment is to record the music through Audacity'
 
 <img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/audacity3.png" alt="Screenshot">
 
+Chordino: Chord Estimate
+Chromagram
+Bass Chromagram
+
+<img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/sonic-visualiser.png" alt="Screenshot">
+
