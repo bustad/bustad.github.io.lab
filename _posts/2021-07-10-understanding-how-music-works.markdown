@@ -73,7 +73,7 @@ When the music is recorded to an audio file, it can be visualized and analyzed b
 
 <img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/sonic-visualiser.png" alt="Screenshot">
 
-After the analysis, the free software [Dorico SE](https://new.steinberg.net/dorico/se/) by Steinberg can be used to make some notes of the findings and save to both pdf.
+After the analysis, the free software [Dorico SE](https://new.steinberg.net/dorico/se/) by Steinberg can be used to make some notes of the findings and save them to a pdf.
 
 <img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/dorico-se.png" alt="Screenshot">
 
