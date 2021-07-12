@@ -77,3 +77,4 @@ After the analysis, the free software [Dorico SE](https://new.steinberg.net/dori
 
 <img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/dorico-se.png" alt="Screenshot">
 
+There may be better methods, but this is the best one I have found so far. :smile: :musical_score:
