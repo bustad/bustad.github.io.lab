@@ -65,15 +65,15 @@ A field that is related to music theory is psychoacoustics. Berklee Online has a
 
 The best method I know of at the moment of analyzing a musical passage is to record the music through Audacity's WASAPI loopback functionality, analyze the recording using Sonic Visualiser and a few plug-ins, and make notes (both textual and musical) using Steinberg's free Dorico SE software.
 
-The [WASAPI](https://docs.microsoft.com/en-us/windows/win32/coreaudio/wasapi) audio API has a very useful [loopback](https://docs.microsoft.com/en-us/windows/win32/coreaudio/loopback-recording) mode that can capture audio played back by some another software. The audio software [Audacity](https://www.audacityteam.org/) implements this useful [feature](https://manual.audacityteam.org/man/tutorial_recording_computer_playback_on_windows.html).
+The [WASAPI](https://docs.microsoft.com/en-us/windows/win32/coreaudio/wasapi) audio API has a very useful [loopback](https://docs.microsoft.com/en-us/windows/win32/coreaudio/loopback-recording) mode that can capture audio played back by some other software. The audio software [Audacity](https://www.audacityteam.org/) implements this useful [feature](https://manual.audacityteam.org/man/tutorial_recording_computer_playback_on_windows.html).
 
 <img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/audacity4.png" alt="Screenshot">
 
-When the music is recorded to an audio file, it can be visualized and analyzed by the great free and open-source application [Sonic Visualiser](https://www.sonicvisualiser.org/). A large number of [plug-ins](https://www.vamp-plugins.org/download.html) can add some very useful features, such as chord estimation, chromagram and bass chromagram. I would recommend to download all of the plug-ins.
+When the music is recorded to an audio file, it can be visualized and analyzed by the great free and open-source application [Sonic Visualiser](https://www.sonicvisualiser.org/). A large number of [plug-ins](https://www.vamp-plugins.org/download.html) can add some very useful features, such as chord estimation, chromagram and bass chromagram. I would recommend downloading all of the plug-ins.
 
 <img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/sonic-visualiser.png" alt="Screenshot">
 
-After the analysis, the free software [Dorico SE](https://new.steinberg.net/dorico/se/) by Steinberg can be used to make some notes of the findings and save them to a pdf.
+After the analysis, the free software [Dorico SE](https://new.steinberg.net/dorico/se/) by Steinberg can be used to make some notes of the findings and save them to a pdf file.
 
 <img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/dorico-se.png" alt="Screenshot">
 
