@@ -65,6 +65,8 @@ A field that is related to music theory is psychoacoustics. Berklee Online has a
 
 The best method I know of at the moment of analyzing a musical passage is to record the music through Audacity's WASAPI loopback functionality, analyze the recording using Sonic Visualiser and a few plug-ins, and make notes (both textual and musical) using Steinberg's free Dorico SE software.
 
+The WASAPI audio API has a very useful [loopback](https://docs.microsoft.com/en-us/windows/win32/coreaudio/loopback-recording) 
+
 <img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/audacity4.png" alt="Screenshot">
 
 Chordino: Chord Estimate
