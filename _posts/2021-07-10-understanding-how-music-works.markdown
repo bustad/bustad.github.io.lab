@@ -65,7 +65,7 @@ A field that is related to music theory is psychoacoustics. Berklee Online has a
 
 The best method I know of at the moment of analyzing a musical passage is to record the music through Audacity's WASAPI loopback functionality, analyze the recording using Sonic Visualiser and a few plug-ins, and make notes (both textual and musical) using Steinberg's free Dorico SE software.
 
-The [WASAPI](https://docs.microsoft.com/en-us/windows/win32/coreaudio/wasapi) audio API has a very useful [loopback](https://docs.microsoft.com/en-us/windows/win32/coreaudio/loopback-recording) mode that can capture audio played back by some another software. [Audacity](https://www.audacityteam.org/) implements this [feature](https://manual.audacityteam.org/man/tutorial_recording_computer_playback_on_windows.html).
+The [WASAPI](https://docs.microsoft.com/en-us/windows/win32/coreaudio/wasapi) audio API has a very useful [loopback](https://docs.microsoft.com/en-us/windows/win32/coreaudio/loopback-recording) mode that can capture audio played back by some another software. [Audacity](https://www.audacityteam.org/) implements this useful [feature](https://manual.audacityteam.org/man/tutorial_recording_computer_playback_on_windows.html).
 
 <img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/audacity4.png" alt="Screenshot">
 
