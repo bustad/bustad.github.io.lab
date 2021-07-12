@@ -69,7 +69,7 @@ The [WASAPI](https://docs.microsoft.com/en-us/windows/win32/coreaudio/wasapi) au
 
 <img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/audacity4.png" alt="Screenshot">
 
-When the music is recorded to an audio file, it can be visualized and analyzed by the great free and open-source application [Sonic Visualiser](https://www.sonicvisualiser.org/). A large number of [plug-ins](https://www.vamp-plugins.org/download.html) can add some very useful features, such as chord estimation, chromagram and bass Chromagram. I would recommend to download all of them. :smile:
+When the music is recorded to an audio file, it can be visualized and analyzed by the great free and open-source application [Sonic Visualiser](https://www.sonicvisualiser.org/). A large number of [plug-ins](https://www.vamp-plugins.org/download.html) can add some very useful features, such as chord estimation, chromagram and bass chromagram. I would recommend to download all of the plug-ins.
 
 <img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/sonic-visualiser.png" alt="Screenshot">
 
