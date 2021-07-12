@@ -2,7 +2,7 @@
 layout: post
 title: "Understanding how music works"
 subtitle: "What goes on under the hood?"
-date: 2021-07-10 21:01:00 +0200
+date: 2021-07-12 09:52:00 +0200
 tags: [Random thoughts]
 background: '/img/posts/vienna-reyes-TGZJgPjMky4-unsplash.jpg'
 published: true
@@ -67,14 +67,14 @@ The best method I know of at the moment of analyzing a musical passage is to rec
 
 The [WASAPI](https://docs.microsoft.com/en-us/windows/win32/coreaudio/wasapi) audio API has a very useful [loopback](https://docs.microsoft.com/en-us/windows/win32/coreaudio/loopback-recording) mode that can capture audio played back by some other software. The audio software [Audacity](https://www.audacityteam.org/) implements this useful [feature](https://manual.audacityteam.org/man/tutorial_recording_computer_playback_on_windows.html).
 
-<img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/audacity4.png" alt="Screenshot">
+<img style="width:100%; height:auto;" src="/img/posts/audacity4.png" alt="Screenshot">
 
 When the music is recorded to an audio file, it can be visualized and analyzed by the great free and open-source application [Sonic Visualiser](https://www.sonicvisualiser.org/). A large number of [plug-ins](https://www.vamp-plugins.org/download.html) can add some very useful features, such as chord estimation, chromagram and bass chromagram. I would recommend downloading all of the plug-ins.
 
-<img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/sonic-visualiser.png" alt="Screenshot">
+<img style="width:100%; height:auto;" src="/img/posts/sonic-visualiser.png" alt="Screenshot">
 
 After the analysis, the free software [Dorico SE](https://new.steinberg.net/dorico/se/) by Steinberg can be used to make some notes of the findings and save them to a pdf file.
 
-<img style="width:100%; height:auto;" src="/bustad.github.io.lab/img/posts/dorico-se.png" alt="Screenshot">
+<img style="width:100%; height:auto;" src="/img/posts/dorico-se.png" alt="Screenshot">
 
 There may be better methods, but this is the best one I have found so far. :smile: :musical_score:
